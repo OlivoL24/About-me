@@ -1,5 +1,5 @@
 /*
-* Template Name: Leven - Resume / CV / vCard Template
+* Template Name: Larry Olivo - Resume
 * Author: lmpixels
 * Author URL: http://themeforest.net/user/lmpixels
 * Version: 1.5.0
