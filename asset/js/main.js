@@ -160,9 +160,9 @@
 
     function scrollTop() {
         if ($(body).scrollTop() > 150) {
-            $('.lmpixels-scroll-to-top').removeClass('hidden-btn');
+            $('.cryptic-scroll-to-top').removeClass('hidden-btn');
         } else {
-            $('.lmpixels-scroll-to-top').addClass('hidden-btn');
+            $('.cryptic-scroll-to-top').addClass('hidden-btn');
         }
     }
 
@@ -416,7 +416,7 @@
             $(this).toggleClass('open');
         });
 
-        $('.lmpixels-scroll-to-top').click(function () {
+        $('.cryptic-scroll-to-top').click(function () {
             $('body,html').animate({
                 scrollTop: 0
             }, 400);
